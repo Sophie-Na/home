@@ -1,0 +1,24 @@
+/*format body*/
+body
+{
+	background-color: lightgray;
+	color:blue
+}
+
+/*format heading 1 in red color*/
+h1
+{
+	color:red;	
+}
+
+/*format table border*/
+table, th, td
+{
+	border: 1px solid black;
+}
+
+/*format unordered list*/
+ul
+{
+	list-style-type:square;
+}
